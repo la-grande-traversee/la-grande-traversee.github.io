@@ -1,11 +1,13 @@
 # Site wide configuration
 
 title: La Grande Traversée
-locale: fr
+locale: en_US
 description: Pour nous suivre autour du monde.
 logo: logo_site.jpg
 search: true
-url: https://la-grande-traversee.github.io/
+#url: https://la-grande-traversee.github.io/
+#url: http://localhost:3000
+port: 3000
 
 # Jekyll configuration
 
@@ -37,9 +39,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Pierre Aillaud
-  avatar: bio-photo.jpg
+  avatar: bio_photo_nous2.jpg
   email: pierre.aillaud.1@gmail.com
-  disqus-shortname: Pierre
+  disqus-shortname: ttps-la-grande-traversee-github-io
   twitter: #username
   facebook: #username
   github: #username
