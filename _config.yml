@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: La Grande Traversee
-locale: en_US
+locale: fr
 description: Describe your website here.
 logo: site-logo.png
 search: true
@@ -36,10 +36,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Pierre Aillaud
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: pierre.aillaud.1@gmail.com
+  disqus-shortname: Pierre
   twitter: #username
   facebook: #username
   github: #username
