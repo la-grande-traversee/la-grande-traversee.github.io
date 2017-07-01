@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: La Grande Traversée
+title: La Grande Traversee
 locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-#url: http://localhost:4000
+url: https://la-grande-traversee.github.io/
 
 # Jekyll configuration
 
