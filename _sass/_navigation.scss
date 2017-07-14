@@ -54,7 +54,7 @@
     @include rounded(4px);
 
     &:hover {
-      background-color: lighten($black, 10);
+      background-color: #036;
     }
   }
 }

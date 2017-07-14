@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+title: Articles par Thèmes
+excerpt: "Archive des posts par pays."
 search_omit: true
 ---
 

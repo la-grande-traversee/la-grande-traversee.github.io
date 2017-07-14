@@ -4,6 +4,9 @@ title: "A Post with Images"
 excerpt: "Examples and code for displaying images in posts."
 categories: articles
 tags: [sample-post, images, test]
+image:
+  feature: so-simple-sample-image-2.jpg
+  thumb: test_teaser.jpg
 comments: true
 share: true
 modified: 2016-06-01T14:17:50-04:00

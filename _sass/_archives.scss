@@ -15,14 +15,14 @@
   list-style-type: none;
 
   li {
-    padding: 8px 0;
+    padding: 15px 0;
     border-bottom: 1px solid lighten($black,80);
-    border-bottom: 1px solid rgba($black,.10);
-    @include font-size(18,no);
+    border-bottom: 4px solid rgba(#036,.80);
+    @include font-size(24,no,40);
     @include clearfix;
 
     > a {
-      border-bottom-width: 0; /* remove underlines from items in post indexes */
+      border-bottom-width: 10px; /* remove underlines from items in post indexes */
     }
   }
 
@@ -44,7 +44,7 @@
   .excerpt {
     display: block;
     float: none;
-    @include font-size(14, no, 16);
+    @include font-size(14, no, 18);
 
     @include media($medium) {
       width: 70%;
@@ -75,7 +75,7 @@
 
   a {
     padding: 4px 6px;
-    margin: 2px;
+    margin: 4px;
     background-color: lighten($black, 90);
     @include rounded(4px);
     text-decoration: none;

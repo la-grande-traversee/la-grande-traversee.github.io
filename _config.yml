@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: La Grande Traversée
-locale: en_US
 description: Pour nous suivre autour du monde.
 logo: logo_site.jpg
+teaser: logo_site.jpg
 search: true
 #url: https://la-grande-traversee.github.io/
 #url: http://localhost:3000
